@@ -1,5 +1,8 @@
 # 💳 Credit Risk Prediction App
 
+## 🚀 Live Demo
+👉 [Click here to open the app](https://predicting-credit-risk-for-loan-applicants-by-amaan-ali.streamlit.app/)
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predicting-credit-risk-for-loan-applicants-by-amaan-ali.streamlit.app/)
 
 This project is a **machine learning web application** that predicts whether a loan applicant is a **Good Credit Risk** or a **Bad Credit Risk** based on their financial and personal details.
