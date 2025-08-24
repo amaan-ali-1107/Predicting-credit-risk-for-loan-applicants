@@ -20,7 +20,7 @@ Built with **Streamlit**, **scikit-learn**, and the **German Credit Data** datas
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Python 3.12**
 - **Pandas, NumPy** - Data Handling
