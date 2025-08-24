@@ -1,7 +1,7 @@
-# 💳 Credit Risk Prediction App
+# Credit Risk Prediction App
 
-## 🚀 Live Demo
-👉 [Click here to open the app](https://predicting-credit-risk-for-loan-applicants-by-amaan-ali.streamlit.app/)
+## Live Demo
+[Click here to open the app](https://predicting-credit-risk-for-loan-applicants-by-amaan-ali.streamlit.app/)
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predicting-credit-risk-for-loan-applicants-by-amaan-ali.streamlit.app/)
 
@@ -11,7 +11,7 @@ Built with **Streamlit**, **scikit-learn**, and the **German Credit Data** datas
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 - Developed a machine learning model to classify loan applicants into Good or Bad credit risk.
 - Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and model development.
@@ -20,7 +20,7 @@ Built with **Streamlit**, **scikit-learn**, and the **German Credit Data** datas
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 - **Python 3.12**
 - **Pandas, NumPy** - Data Handling
@@ -31,7 +31,7 @@ Built with **Streamlit**, **scikit-learn**, and the **German Credit Data** datas
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Name:** German Credit Data
 - **Source:** [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/german-credit)
@@ -39,7 +39,7 @@ Built with **Streamlit**, **scikit-learn**, and the **German Credit Data** datas
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. User enters applicant information (Age, Sex, Job type, Housing status, etc.).
 2. The data is processed using the trained preprocessing pipeline.
@@ -50,7 +50,7 @@ Built with **Streamlit**, **scikit-learn**, and the **German Credit Data** datas
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```bash
 .
